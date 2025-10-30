@@ -509,7 +509,7 @@ img {
   --ztc-bg-bg-4: #032530;
   --ztc-bg-bg-5: #C0F037;
   --ztc-bg-bg-6: #131E20;
-  --ztc-bg-bg-7: #FF3639;
+  --ztc-bg-bg-7: #e9ac6e;
   --ztc-bg-bg-8: #002466;
   --ztc-bg-bg-9: #2E4DFD;
   --ztc-bg-bg-10: #FF6700;
@@ -9275,7 +9275,7 @@ html {
 .homepage3-body .header-area.homepage3 .menu-top-area .top-menu-area {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: right;
   background: var(--ztc-bg-bg-1);
   padding: 20px;
   visibility: visible;
